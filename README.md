@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about ...
+<!--- - 💬 Ask me about ...-->
 - 📫 How to reach me: Just star one of my repos.
 <!--- ⚡ Fun fact: ...
 -->
