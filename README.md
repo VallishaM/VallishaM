@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning Flutter
-<!--- - 💬 Ask me about ...-->
 - 📫 How to reach me: Just star one of my repos.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=VallishaM)
+<!--- - 💬 Ask me about ...-->
 <!--- ⚡ Fun fact: ...
 -->
